@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pra.AdvancedClasses.CORE/Pra.AdvancedClasses.CORE.csproj" />
+  <Project Path="Pra.AdvancedClasses.WPF/Pra.AdvancedClasses.WPF.csproj" />
+</Solution>
